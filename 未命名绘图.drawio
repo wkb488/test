@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T09:31:45.094Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="vdr0_9snrLngD7pZds6R" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-30T09:37:11.140Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="6tyxj1U5ShC-1kIWdYbW" version="21.1.2" type="github">
   <diagram name="第 1 页" id="aERbTS1XuSQMkrAbpRA_">
-    <mxGraphModel dx="842" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
         <mxCell id="UVithkWDfJSBE_TuZt-7-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="130" width="70" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="UVithkWDfJSBE_TuZt-7-7" value="&lt;h2&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;超集&lt;/font&gt;&lt;/h2&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;TypeScript&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="UVithkWDfJSBE_TuZt-7-7" value="&lt;h2&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;超集&lt;/font&gt;&lt;/h2&gt;&lt;h3&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;TypeScript&lt;/font&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="735" y="134" width="60" height="59" as="geometry" />
         </mxCell>
         <mxCell id="UVithkWDfJSBE_TuZt-7-8" value="引入类型系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -33,6 +33,21 @@
         </mxCell>
         <mxCell id="UVithkWDfJSBE_TuZt-7-9" value="支持ES6" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="360" width="52.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UVithkWDfJSBE_TuZt-7-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120.5" y="250" width="599" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="UVithkWDfJSBE_TuZt-7-11" value="&lt;h2&gt;系统关键模块&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="250.5" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UVithkWDfJSBE_TuZt-7-12" value="驾驶舱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="288" width="180" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="UVithkWDfJSBE_TuZt-7-15" value="工程项目全生命周期管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="287.5" width="180" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="UVithkWDfJSBE_TuZt-7-16" value="全域谋划数字沙盘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="288" width="180" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
