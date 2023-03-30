@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T09:41:08.940Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="HaV1hWFYGVOOWxhBSVfZ" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-30T09:53:03.993Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="rRD5FJoFYZJf_pk93pan" version="21.1.2" type="github">
   <diagram name="第 1 页" id="aERbTS1XuSQMkrAbpRA_">
-    <mxGraphModel dx="842" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,28 +14,28 @@
           <mxGeometry x="121" y="155" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UVithkWDfJSBE_TuZt-7-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;VUE2 / VUE3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="241" y="140" width="469" height="40" as="geometry" />
+          <mxGeometry x="241" y="140" width="219" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UVithkWDfJSBE_TuZt-7-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;组件化&amp;nbsp; 数据视图逻辑分离&amp;nbsp; 响应式&amp;nbsp; 虚拟DOM&amp;nbsp; diff算法自动渲染&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="241" y="190" width="469" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UVithkWDfJSBE_TuZt-7-5" value="&lt;h2&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;JavaScript&lt;/span&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="130" width="80" height="340" as="geometry" />
+          <mxGeometry x="30" y="130" width="80" height="550" as="geometry" />
         </mxCell>
         <mxCell id="UVithkWDfJSBE_TuZt-7-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="130" width="70" height="350" as="geometry" />
+          <mxGeometry x="730" y="130" width="70" height="480" as="geometry" />
         </mxCell>
         <mxCell id="UVithkWDfJSBE_TuZt-7-7" value="&lt;h2&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;超集&lt;/font&gt;&lt;/h2&gt;&lt;h3&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;TypeScript&lt;/font&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="735" y="134" width="60" height="59" as="geometry" />
         </mxCell>
         <mxCell id="UVithkWDfJSBE_TuZt-7-8" value="引入类型系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="737.5" y="215" width="55" height="115" as="geometry" />
+          <mxGeometry x="737.5" y="215" width="55" height="165" as="geometry" />
         </mxCell>
         <mxCell id="UVithkWDfJSBE_TuZt-7-9" value="支持ES6" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="360" width="52.5" height="100" as="geometry" />
+          <mxGeometry x="738.75" y="400" width="52.5" height="190" as="geometry" />
         </mxCell>
         <mxCell id="UVithkWDfJSBE_TuZt-7-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120.5" y="250" width="599" height="230" as="geometry" />
+          <mxGeometry x="120.5" y="250" width="599" height="360" as="geometry" />
         </mxCell>
         <mxCell id="UVithkWDfJSBE_TuZt-7-11" value="&lt;h2&gt;系统关键模块&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="365" y="250.5" width="110" height="30" as="geometry" />
@@ -53,10 +53,37 @@
           <mxGeometry x="190" y="324" width="60" height="28" as="geometry" />
         </mxCell>
         <mxCell id="UVithkWDfJSBE_TuZt-7-19" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="324" width="60" height="28" as="geometry" />
+          <mxGeometry x="390" y="324" width="60" height="28" as="geometry" />
         </mxCell>
         <mxCell id="UVithkWDfJSBE_TuZt-7-20" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="324" width="60" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="UVithkWDfJSBE_TuZt-7-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="360" width="180" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="UVithkWDfJSBE_TuZt-7-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="360" width="180" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="UVithkWDfJSBE_TuZt-7-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="360" width="180" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="UVithkWDfJSBE_TuZt-7-24" value="审&lt;br&gt;批&lt;br&gt;管&lt;br&gt;理&lt;br&gt;&lt;br&gt;tangram&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="336" y="366" width="46" height="197" as="geometry" />
+        </mxCell>
+        <mxCell id="UVithkWDfJSBE_TuZt-7-25" value="监&lt;br&gt;测&lt;br&gt;监&lt;br&gt;管&lt;br&gt;&lt;br&gt;tangram&lt;br&gt;&lt;br&gt;指标管理系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="397" y="366.5" width="46" height="197" as="geometry" />
+        </mxCell>
+        <mxCell id="UVithkWDfJSBE_TuZt-7-26" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Dora&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="491" y="140" width="219" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UVithkWDfJSBE_TuZt-7-27" value="后&lt;br&gt;期&lt;br&gt;管&lt;br&gt;护&lt;br&gt;&lt;br&gt;Echarts&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="458" y="366.5" width="46" height="197" as="geometry" />
+        </mxCell>
+        <mxCell id="UVithkWDfJSBE_TuZt-7-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="620" width="680" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UVithkWDfJSBE_TuZt-7-30" value="&lt;h2&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;基石&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="136" y="610" width="44" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
