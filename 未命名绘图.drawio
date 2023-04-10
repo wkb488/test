@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T01:08:36.783Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="fbZ8XSK-Vm7Uu6cf6cuK" version="21.1.5" type="github">
-  <diagram name="第 1 页" id="aERbTS1XuSQMkrAbpRA_">
+<mxfile host="app.diagrams.net" modified="2023-04-10T01:13:01.953Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="cgrN4o46I7yX2a2XyoBR" version="21.1.5" type="github" pages="2">
+  <diagram name="前端架构图" id="aERbTS1XuSQMkrAbpRA_">
     <mxGraphModel dx="1221" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -94,6 +94,14 @@
         <mxCell id="UVithkWDfJSBE_TuZt-7-34" value="&lt;font color=&quot;#ffffff&quot;&gt;ES5 / ES6模块化规范&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
           <mxGeometry x="310" y="640" width="146" height="20" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="XSElOtdGqm7M-GGepmwN" name="SpaceLink">
+    <mxGraphModel dx="1221" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
