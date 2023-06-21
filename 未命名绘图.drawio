@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T02:05:51.719Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="0Tk_yHaKv-BZhFDss-A2" version="21.5.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-21T02:10:10.506Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="TsI9w1X6GcKeU_tGLHob" version="21.5.0" type="github" pages="3">
   <diagram name="前端架构图" id="aERbTS1XuSQMkrAbpRA_">
     <mxGraphModel dx="1221" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -169,7 +169,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="j7PHND6YMBpe7yRjcpt8" name="浙江省生态修复-全域">
-    <mxGraphModel dx="1436" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -334,6 +334,39 @@
         </mxCell>
         <mxCell id="ivfM4cDBGQ6n9eSlpwVS-62" value="应用接口服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="694" y="210" width="200" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ivfM4cDBGQ6n9eSlpwVS-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="265" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ivfM4cDBGQ6n9eSlpwVS-65" value="业务服务组件" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="487.5" y="267" width="285.5" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="ivfM4cDBGQ6n9eSlpwVS-66" value="流程服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="484.5" y="290" width="92.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ivfM4cDBGQ6n9eSlpwVS-69" value="表单服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="584.5" y="290" width="92.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ivfM4cDBGQ6n9eSlpwVS-70" value="文档服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="682.5" y="290" width="92.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ivfM4cDBGQ6n9eSlpwVS-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="265" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ivfM4cDBGQ6n9eSlpwVS-74" value="业务服务组件" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="799.5" y="267" width="292.5" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="ivfM4cDBGQ6n9eSlpwVS-75" value="API网关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="794.5" y="290" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ivfM4cDBGQ6n9eSlpwVS-81" value="目录组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="871" y="290" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ivfM4cDBGQ6n9eSlpwVS-82" value="日志收集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="290" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ivfM4cDBGQ6n9eSlpwVS-83" value="文件预览" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="948" y="290" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
