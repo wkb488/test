@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T02:10:10.506Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="TsI9w1X6GcKeU_tGLHob" version="21.5.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-21T02:11:25.191Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="toNaqk4E702H2xw3Tsg_" version="21.5.0" type="github" pages="3">
   <diagram name="前端架构图" id="aERbTS1XuSQMkrAbpRA_">
     <mxGraphModel dx="1221" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -305,7 +305,7 @@
         <mxCell id="ivfM4cDBGQ6n9eSlpwVS-51" value="......" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="500" width="170" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="ivfM4cDBGQ6n9eSlpwVS-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ivfM4cDBGQ6n9eSlpwVS-53" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="340" width="830" height="45" as="geometry" />
         </mxCell>
         <mxCell id="ivfM4cDBGQ6n9eSlpwVS-54" value="数据应用" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
@@ -314,10 +314,10 @@
         <mxCell id="ivfM4cDBGQ6n9eSlpwVS-55" value="浙江省国土空间基础信息平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="546" y="346.25" width="500" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="ivfM4cDBGQ6n9eSlpwVS-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ivfM4cDBGQ6n9eSlpwVS-56" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="257" width="830" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="ivfM4cDBGQ6n9eSlpwVS-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ivfM4cDBGQ6n9eSlpwVS-57" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="205" width="830" height="45" as="geometry" />
         </mxCell>
         <mxCell id="ivfM4cDBGQ6n9eSlpwVS-58" value="应用 / 业务组件" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
@@ -367,6 +367,12 @@
         </mxCell>
         <mxCell id="ivfM4cDBGQ6n9eSlpwVS-83" value="文件预览" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="948" y="290" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ivfM4cDBGQ6n9eSlpwVS-84" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="301" y="7" width="829" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="ivfM4cDBGQ6n9eSlpwVS-85" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="20" width="790" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
