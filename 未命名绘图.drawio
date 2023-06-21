@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T02:27:38.713Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="k1fekzK_fhHxDRXGKXRK" version="21.5.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-21T02:34:19.988Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="UrP4dCc_W6ICxXAixt1J" version="21.5.0" type="github" pages="3">
   <diagram name="前端架构图" id="aERbTS1XuSQMkrAbpRA_">
     <mxGraphModel dx="1221" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -373,6 +373,21 @@
         </mxCell>
         <mxCell id="ivfM4cDBGQ6n9eSlpwVS-85" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#f59e57;" vertex="1" parent="1">
           <mxGeometry x="320" y="20" width="790" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ivfM4cDBGQ6n9eSlpwVS-86" value="数据维护" style="rounded=1;html=1;fontColor=#FFFFFF;whiteSpace=wrap;strokeColor=none;fillColor=#548BD4;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="346" y="30" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ivfM4cDBGQ6n9eSlpwVS-91" value="数据 / 图形处理" style="rounded=1;html=1;fontColor=#FFFFFF;whiteSpace=wrap;strokeColor=none;fillColor=#548BD4;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="881" y="30" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ivfM4cDBGQ6n9eSlpwVS-92" value="项目报部备案" style="rounded=1;html=1;fontColor=#FFFFFF;whiteSpace=wrap;strokeColor=none;fillColor=#548BD4;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="615" y="30" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ivfM4cDBGQ6n9eSlpwVS-93" value="其他" style="rounded=1;html=1;fontColor=#FFFFFF;whiteSpace=wrap;strokeColor=none;fillColor=#548BD4;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="615.5" y="100" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ivfM4cDBGQ6n9eSlpwVS-94" value="信息公开" style="rounded=1;html=1;fontColor=#FFFFFF;whiteSpace=wrap;strokeColor=none;fillColor=#548BD4;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="346" y="100" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
