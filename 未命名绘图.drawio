@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T01:51:32.770Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="XLksLDedJwD0B-8UnfMQ" version="21.5.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-21T01:56:07.217Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="N3rnSzSZICirMoRCNMBg" version="21.5.0" type="github" pages="3">
   <diagram name="前端架构图" id="aERbTS1XuSQMkrAbpRA_">
     <mxGraphModel dx="1221" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -196,6 +196,42 @@
         </mxCell>
         <mxCell id="ivfM4cDBGQ6n9eSlpwVS-12" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;基础设施体系&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="230" y="665" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ivfM4cDBGQ6n9eSlpwVS-13" value="物理感知层（视频监控、物联网）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="750" width="830" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ivfM4cDBGQ6n9eSlpwVS-14" value="基础网络层（电子政务网、互联网）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="703" width="830" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ivfM4cDBGQ6n9eSlpwVS-15" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="655" width="830" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ivfM4cDBGQ6n9eSlpwVS-16" value="浙江省“一朵云平台”" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="610" width="830" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ivfM4cDBGQ6n9eSlpwVS-17" value="计算服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="655" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ivfM4cDBGQ6n9eSlpwVS-18" value="存储服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="655" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ivfM4cDBGQ6n9eSlpwVS-19" value="网络服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="655" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ivfM4cDBGQ6n9eSlpwVS-20" value="数据库服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="655" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ivfM4cDBGQ6n9eSlpwVS-21" value="中间件服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="655" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ivfM4cDBGQ6n9eSlpwVS-22" value="卫星遥感服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="655" width="110" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ivfM4cDBGQ6n9eSlpwVS-23" value="安全服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="655" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ivfM4cDBGQ6n9eSlpwVS-24" value="......" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="655" width="90" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
