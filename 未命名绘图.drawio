@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T02:34:19.988Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="UrP4dCc_W6ICxXAixt1J" version="21.5.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-11T01:32:12.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="li_Lr_WotJ_WIIAXVYGA" version="21.6.8" type="github" pages="4">
   <diagram name="前端架构图" id="aERbTS1XuSQMkrAbpRA_">
     <mxGraphModel dx="1221" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -388,6 +388,32 @@
         </mxCell>
         <mxCell id="ivfM4cDBGQ6n9eSlpwVS-94" value="信息公开" style="rounded=1;html=1;fontColor=#FFFFFF;whiteSpace=wrap;strokeColor=none;fillColor=#548BD4;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="346" y="100" width="200" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="qnDHSX4E4AfvKigp2SM8" name="台州信创迁移总体架构图">
+    <mxGraphModel dx="1744" dy="1073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="39Io_28CgT9u8acZ7zBr-1" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;政&lt;br&gt;策&lt;br&gt;制&lt;br&gt;度&lt;br&gt;，&lt;br&gt;标&lt;br&gt;准&lt;br&gt;规&lt;br&gt;范&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="80" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="39Io_28CgT9u8acZ7zBr-2" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;安&lt;br&gt;全&lt;br&gt;管&lt;br&gt;理&lt;br&gt;，&lt;br&gt;运&lt;br&gt;维&lt;br&gt;保&lt;br&gt;障&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="40" width="80" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="39Io_28CgT9u8acZ7zBr-3" value="" style="rounded=0;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="130" y="40" width="900" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="39Io_28CgT9u8acZ7zBr-4" value="" style="rounded=0;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="130" y="170" width="900" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="39Io_28CgT9u8acZ7zBr-5" value="" style="rounded=0;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="130" y="414" width="900" height="186" as="geometry" />
+        </mxCell>
+        <mxCell id="39Io_28CgT9u8acZ7zBr-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;基&lt;br&gt;础&lt;br&gt;设&lt;br&gt;施&lt;br&gt;层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="130" y="610" width="900" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
