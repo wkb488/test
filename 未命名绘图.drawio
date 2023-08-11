@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-11T01:32:12.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="li_Lr_WotJ_WIIAXVYGA" version="21.6.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-08-11T01:56:55.085Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="GBxjRd1L9d2a83VAWeJe" version="21.6.8" type="github" pages="4">
   <diagram name="前端架构图" id="aERbTS1XuSQMkrAbpRA_">
     <mxGraphModel dx="1221" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -403,17 +403,38 @@
         <mxCell id="39Io_28CgT9u8acZ7zBr-2" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;安&lt;br&gt;全&lt;br&gt;管&lt;br&gt;理&lt;br&gt;，&lt;br&gt;运&lt;br&gt;维&lt;br&gt;保&lt;br&gt;障&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="40" width="80" height="720" as="geometry" />
         </mxCell>
-        <mxCell id="39Io_28CgT9u8acZ7zBr-3" value="" style="rounded=0;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="1">
+        <mxCell id="39Io_28CgT9u8acZ7zBr-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;应&lt;br&gt;用&lt;br&gt;层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=10;align=left;" vertex="1" parent="1">
           <mxGeometry x="130" y="40" width="900" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="39Io_28CgT9u8acZ7zBr-4" value="" style="rounded=0;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="1">
+        <mxCell id="39Io_28CgT9u8acZ7zBr-4" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;平&lt;br&gt;台&lt;br&gt;层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=10;align=left;" vertex="1" parent="1">
           <mxGeometry x="130" y="170" width="900" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="39Io_28CgT9u8acZ7zBr-5" value="" style="rounded=0;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="1">
+        <mxCell id="39Io_28CgT9u8acZ7zBr-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;数&lt;br&gt;据&lt;br&gt;层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=10;align=left;" vertex="1" parent="1">
           <mxGeometry x="130" y="414" width="900" height="186" as="geometry" />
         </mxCell>
         <mxCell id="39Io_28CgT9u8acZ7zBr-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;基&lt;br&gt;础&lt;br&gt;设&lt;br&gt;施&lt;br&gt;层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=10;" vertex="1" parent="1">
           <mxGeometry x="130" y="610" width="900" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="39Io_28CgT9u8acZ7zBr-7" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;多端应用&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="180" y="50" width="840" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="39Io_28CgT9u8acZ7zBr-8" value="平台支撑" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="180" y="180" width="840" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="39Io_28CgT9u8acZ7zBr-9" value="数据存储" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="180" y="430" width="840" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="39Io_28CgT9u8acZ7zBr-10" value="基础设施" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="180" y="620" width="840" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="39Io_28CgT9u8acZ7zBr-11" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;PC端&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;支持操作系统自带浏览器、360等国产浏览器&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="39Io_28CgT9u8acZ7zBr-12" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;移动端&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;支持鸿蒙操作系统&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="80" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="39Io_28CgT9u8acZ7zBr-13" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;应用服务器：支持东方通TongWeb&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="210" width="800" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
