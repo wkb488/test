@@ -835,6 +835,22 @@
         <mxCell id="mBLi_VCie8pJuAnoasUB-5" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" value="立即停止接触过敏原&#xa;（如药物、食物、诊疗操作等）" vertex="1">
           <mxGeometry height="102" width="260" x="250" y="149" as="geometry" />
         </mxCell>
+        <mxCell id="mBLi_VCie8pJuAnoasUB-53" edge="1" parent="1" source="mBLi_VCie8pJuAnoasUB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mBLi_VCie8pJuAnoasUB-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="460" />
+              <mxPoint x="725" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mBLi_VCie8pJuAnoasUB-54" edge="1" parent="1" source="mBLi_VCie8pJuAnoasUB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="mBLi_VCie8pJuAnoasUB-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="460" />
+              <mxPoint x="200" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mBLi_VCie8pJuAnoasUB-6" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" value="初步评估生命体征&#xa;（意识、呼吸、心率、血压、皮肤表现）" vertex="1">
           <mxGeometry height="102" width="260" x="250" y="301" as="geometry" />
         </mxCell>
@@ -901,7 +917,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mBLi_VCie8pJuAnoasUB-50" connectable="0" parent="mBLi_VCie8pJuAnoasUB-48" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" value="f 否" vertex="1">
+        <mxCell id="mBLi_VCie8pJuAnoasUB-50" connectable="0" parent="mBLi_VCie8pJuAnoasUB-48" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" value="否" vertex="1">
           <mxGeometry relative="1" x="0.5726" y="5" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -979,20 +995,6 @@
         <mxCell id="mBLi_VCie8pJuAnoasUB-34" edge="1" parent="1" source="mBLi_VCie8pJuAnoasUB-17" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=20;" target="mBLi_VCie8pJuAnoasUB-18" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mBLi_VCie8pJuAnoasUB-35" edge="1" parent="1" source="mBLi_VCie8pJuAnoasUB-6" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.9;entryX=0.5;entryY=0;rounded=0;fontSize=20;" target="mBLi_VCie8pJuAnoasUB-7" value="">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="624" y="428" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mBLi_VCie8pJuAnoasUB-36" edge="1" parent="1" source="mBLi_VCie8pJuAnoasUB-6" style="curved=1;startArrow=none;endArrow=block;exitX=0.05;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=20;" target="mBLi_VCie8pJuAnoasUB-11" value="">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="205" y="428" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mBLi_VCie8pJuAnoasUB-39" edge="1" parent="1" source="mBLi_VCie8pJuAnoasUB-19" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=20;" target="mBLi_VCie8pJuAnoasUB-20" value="">
