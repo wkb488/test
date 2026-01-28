@@ -816,7 +816,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="930DGawFFBXEvCFRSfzb" name="第 6 页">
-    <mxGraphModel dx="3108" dy="1724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="3108" dy="1724" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -824,7 +824,7 @@
           <mxGeometry height="1217" width="360" x="20" y="478" as="geometry" />
         </mxCell>
         <mxCell id="mBLi_VCie8pJuAnoasUB-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" value="轻度过敏处理路径" vertex="1">
-          <mxGeometry height="705" width="330" x="560" y="487" as="geometry" />
+          <mxGeometry height="705" width="330" x="568" y="609" as="geometry" />
         </mxCell>
         <mxCell id="mBLi_VCie8pJuAnoasUB-3" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" value="第一阶段" vertex="1">
           <mxGeometry height="304" width="614" x="103" y="124" as="geometry" />
@@ -855,24 +855,25 @@
           <mxGeometry height="102" width="260" x="250" y="301" as="geometry" />
         </mxCell>
         <mxCell id="mBLi_VCie8pJuAnoasUB-7" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" value="轻度过敏&#xa;（仅皮肤瘙痒、皮疹、红斑）" vertex="1">
-          <mxGeometry height="78" width="260" x="595" y="524" as="geometry" />
+          <mxGeometry height="78" width="260" x="603" y="646" as="geometry" />
         </mxCell>
         <mxCell id="mBLi_VCie8pJuAnoasUB-8" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" value="遵医嘱给予抗组胺药物&#xa;（如氯雷他定、西替利嗪）" vertex="1">
-          <mxGeometry height="78" width="252" x="599" y="664" as="geometry" />
+          <mxGeometry height="78" width="252" x="607" y="786" as="geometry" />
         </mxCell>
         <mxCell id="mBLi_VCie8pJuAnoasUB-9" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" value="监测生命体征变化" vertex="1">
-          <mxGeometry height="54" width="188" x="631" y="864" as="geometry" />
+          <mxGeometry height="54" width="188" x="639" y="986" as="geometry" />
         </mxCell>
         <mxCell id="mBLi_VCie8pJuAnoasUB-51" edge="1" parent="1" source="mBLi_VCie8pJuAnoasUB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" target="mBLi_VCie8pJuAnoasUB-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="920" y="1128" />
+              <mxPoint x="725" y="1387" />
+              <mxPoint x="920" y="1387" />
               <mxPoint x="920" y="1644" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mBLi_VCie8pJuAnoasUB-10" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" value="留观至少30分钟，无进展可离院" vertex="1">
-          <mxGeometry height="78" width="260" x="595" y="1089" as="geometry" />
+          <mxGeometry height="78" width="260" x="603" y="1211" as="geometry" />
         </mxCell>
         <mxCell id="mBLi_VCie8pJuAnoasUB-11" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" value="中重度过敏&#xa;（喉头水肿、呼吸困难、低血压、过敏性休克）" vertex="1">
           <mxGeometry height="102" width="260" x="75" y="503" as="geometry" />
@@ -932,7 +933,7 @@
           <mxGeometry height="102" width="260" x="610" y="1593" as="geometry" />
         </mxCell>
         <mxCell id="mBLi_VCie8pJuAnoasUB-21" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" value="后续告知患者及家属过敏原，&#xa;发放过敏标识，避免再次接触" vertex="1">
-          <mxGeometry height="126" width="260" x="610" y="1745" as="geometry" />
+          <mxGeometry height="126" width="280" x="600" y="1745" as="geometry" />
         </mxCell>
         <mxCell id="mBLi_VCie8pJuAnoasUB-22" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" value="流程结束" vertex="1">
           <mxGeometry height="54" width="124" x="678" y="1921" as="geometry" />
