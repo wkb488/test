@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.6" pages="7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.6" pages="8">
   <diagram name="前端架构图" id="aERbTS1XuSQMkrAbpRA_">
     <mxGraphModel dx="1221" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1274,6 +1274,248 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="keaoIZe982hKBaPAC_38-59" edge="1" parent="1" source="keaoIZe982hKBaPAC_38-1" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.4;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;edgeStyle=orthogonalEdgeStyle;" target="keaoIZe982hKBaPAC_38-46" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="uvI8Rr5c2Vupv74sH32v" name="第 8 页">
+    <mxGraphModel dx="3108" dy="1724" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=22;" value="评估·加强药·休息·改期" vertex="1">
+          <mxGeometry height="124" width="947" x="962" y="932" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-2" parent="f9AmiHh9ryeF64AJUNRb-1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="医生评估决定" vertex="1">
+          <mxGeometry height="54" width="156" x="46" y="43" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-3" parent="f9AmiHh9ryeF64AJUNRb-1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="加强药物治疗" vertex="1">
+          <mxGeometry height="54" width="156" x="277" y="43" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-4" parent="f9AmiHh9ryeF64AJUNRb-1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="休息观察2-4小时" vertex="1">
+          <mxGeometry height="54" width="179" x="508" y="43" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-5" parent="f9AmiHh9ryeF64AJUNRb-1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="安排改期治疗" vertex="1">
+          <mxGeometry height="54" width="156" x="761" y="43" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-6" edge="1" parent="f9AmiHh9ryeF64AJUNRb-1" source="f9AmiHh9ryeF64AJUNRb-2" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-3" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-7" edge="1" parent="f9AmiHh9ryeF64AJUNRb-1" source="f9AmiHh9ryeF64AJUNRb-3" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-4" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-8" edge="1" parent="f9AmiHh9ryeF64AJUNRb-1" source="f9AmiHh9ryeF64AJUNRb-4" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-5" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-9" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=22;" value="慢调体位·简步骤·密观察·尽快结束" vertex="1">
+          <mxGeometry height="124" width="892" x="20" y="932" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-10" parent="f9AmiHh9ryeF64AJUNRb-9" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="缓慢调整体位" vertex="1">
+          <mxGeometry height="54" width="156" x="46" y="43" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-11" parent="f9AmiHh9ryeF64AJUNRb-9" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="简化治疗步骤" vertex="1">
+          <mxGeometry height="54" width="156" x="277" y="43" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-12" parent="f9AmiHh9ryeF64AJUNRb-9" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="密切观察" vertex="1">
+          <mxGeometry height="54" width="124" x="508" y="43" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-13" parent="f9AmiHh9ryeF64AJUNRb-9" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="尽快结束操作" vertex="1">
+          <mxGeometry height="54" width="156" x="707" y="43" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-14" edge="1" parent="f9AmiHh9ryeF64AJUNRb-9" source="f9AmiHh9ryeF64AJUNRb-10" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-11" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-15" edge="1" parent="f9AmiHh9ryeF64AJUNRb-9" source="f9AmiHh9ryeF64AJUNRb-11" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-12" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-16" edge="1" parent="f9AmiHh9ryeF64AJUNRb-9" source="f9AmiHh9ryeF64AJUNRb-12" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-13" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-17" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=22;" value="呼救·体位·气道·抢救" vertex="1">
+          <mxGeometry height="124" width="956" x="1583" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-18" parent="f9AmiHh9ryeF64AJUNRb-17" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="呼叫急救团队" vertex="1">
+          <mxGeometry height="54" width="156" x="46" y="43" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-19" parent="f9AmiHh9ryeF64AJUNRb-17" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="左侧卧位头低位" vertex="1">
+          <mxGeometry height="54" width="172" x="277" y="43" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-20" parent="f9AmiHh9ryeF64AJUNRb-17" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="双人吸引保气道" vertex="1">
+          <mxGeometry height="54" width="172" x="524" y="43" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-21" parent="f9AmiHh9ryeF64AJUNRb-17" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="准备抢救设备" vertex="1">
+          <mxGeometry height="54" width="156" x="771" y="43" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-22" edge="1" parent="f9AmiHh9ryeF64AJUNRb-17" source="f9AmiHh9ryeF64AJUNRb-18" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-19" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-23" edge="1" parent="f9AmiHh9ryeF64AJUNRb-17" source="f9AmiHh9ryeF64AJUNRb-19" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-20" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-24" edge="1" parent="f9AmiHh9ryeF64AJUNRb-17" source="f9AmiHh9ryeF64AJUNRb-20" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-21" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-25" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=22;" value="报告·备药·通路·监测" vertex="1">
+          <mxGeometry height="172" width="996" x="947" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-26" parent="f9AmiHh9ryeF64AJUNRb-25" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="报告医生" vertex="1">
+          <mxGeometry height="54" width="124" x="46" y="67" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-27" parent="f9AmiHh9ryeF64AJUNRb-25" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="准备止吐药&#xa;甲氧氯普胺10mg/昂丹司琼4mg" vertex="1">
+          <mxGeometry height="102" width="260" x="245" y="43" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-28" parent="f9AmiHh9ryeF64AJUNRb-25" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="建立静脉通路" vertex="1">
+          <mxGeometry height="54" width="156" x="580" y="67" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-29" parent="f9AmiHh9ryeF64AJUNRb-25" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="监测生命体征" vertex="1">
+          <mxGeometry height="54" width="156" x="811" y="67" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-30" edge="1" parent="f9AmiHh9ryeF64AJUNRb-25" source="f9AmiHh9ryeF64AJUNRb-26" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-27" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-31" edge="1" parent="f9AmiHh9ryeF64AJUNRb-25" source="f9AmiHh9ryeF64AJUNRb-27" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-28" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-32" edge="1" parent="f9AmiHh9ryeF64AJUNRb-25" source="f9AmiHh9ryeF64AJUNRb-28" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-29" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-33" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=22;" value="安抚·呼吸·漱口·观察15min" vertex="1">
+          <mxGeometry height="124" width="845" x="43" y="509" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-34" parent="f9AmiHh9ryeF64AJUNRb-33" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="安抚患者" vertex="1">
+          <mxGeometry height="54" width="124" x="46" y="43" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-35" parent="f9AmiHh9ryeF64AJUNRb-33" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="指导深呼吸" vertex="1">
+          <mxGeometry height="54" width="140" x="245" y="43" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-36" parent="f9AmiHh9ryeF64AJUNRb-33" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="温盐水漱口" vertex="1">
+          <mxGeometry height="54" width="140" x="460" y="43" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-37" parent="f9AmiHh9ryeF64AJUNRb-33" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="观察15分钟" vertex="1">
+          <mxGeometry height="54" width="141" x="675" y="43" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-38" edge="1" parent="f9AmiHh9ryeF64AJUNRb-33" source="f9AmiHh9ryeF64AJUNRb-34" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-35" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-39" edge="1" parent="f9AmiHh9ryeF64AJUNRb-33" source="f9AmiHh9ryeF64AJUNRb-35" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-36" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-40" edge="1" parent="f9AmiHh9ryeF64AJUNRb-33" source="f9AmiHh9ryeF64AJUNRb-36" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-37" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-41" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="“患者恶心/呕吐”" vertex="1">
+          <mxGeometry height="54" width="181" x="1355" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-42" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="“立即：停操作·调体位·清口腔”" vertex="1">
+          <mxGeometry height="78" width="260" x="1315" y="124" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-43" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=22;" value="“分级评估”" vertex="1">
+          <mxGeometry height="135" width="135" x="1378" y="252" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-44" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=22;" value="“症状缓解？”" vertex="1">
+          <mxGeometry height="151" width="151" x="875" y="707" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-45" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="“误吸处理→转急诊”" vertex="1">
+          <mxGeometry height="54" width="205" x="1959" y="967" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-46" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="“延长观察·指导·记录”" vertex="1">
+          <mxGeometry height="54" width="217" x="842" y="1106" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-47" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="“急诊处理”" vertex="1">
+          <mxGeometry height="54" width="141" x="1991" y="1106" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-48" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="“流程结束”" vertex="1">
+          <mxGeometry height="54" width="141" x="1193" y="1210" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-49" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-41" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-42" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-50" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-42" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-43" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-51" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-45" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-47" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-52" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-46" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.28;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-48" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-53" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-47" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.41;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-48" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-54" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-43" style="startArrow=none;endArrow=block;exitX=0;exitY=0.56;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-33" value="“轻度：仅恶心&#xa;呕吐≤1次”">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-55" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-43" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-25" value="“中度：呕吐2-3次&#xa;不能继续治疗”">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-56" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-43" style="startArrow=none;endArrow=block;exitX=1;exitY=0.59;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-17" value="“重度：喷射性呕吐&#xa;呼吸困难/意识改变”">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-57" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-33" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-44" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-58" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-25" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-44" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-59" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-17" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-45" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-60" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-44" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-9" value="“是”">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="950" y="895" />
+              <mxPoint x="466" y="895" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-61" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-44" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-1" value="“否”">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-62" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-9" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.28;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-46" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-63" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-1" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.28;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-46" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
