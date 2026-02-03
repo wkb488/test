@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.6" pages="8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.6" pages="9">
   <diagram name="前端架构图" id="aERbTS1XuSQMkrAbpRA_">
     <mxGraphModel dx="1221" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1516,6 +1516,404 @@
         </mxCell>
         <mxCell id="f9AmiHh9ryeF64AJUNRb-63" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-1" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.28;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=22;labelBackgroundColor=none;strokeColor=#6c8ebf;fontColor=default;fillColor=#dae8fc;gradientColor=#7ea6e0;" target="f9AmiHh9ryeF64AJUNRb-46" value="">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="DaBxnF_L6DqXKE48i7f4" name="第 9 页">
+    <mxGraphModel dx="3885" dy="2155" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ovvKUjcmh3rySVfpZusO-80" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="护理工作" vertex="1">
+          <mxGeometry height="612" width="266" x="2887" y="1016" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-81" parent="ovvKUjcmh3rySVfpZusO-80" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“完整记录&#xa;时间线处理结果”" vertex="1">
+          <mxGeometry height="78" width="180" x="51" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-82" parent="ovvKUjcmh3rySVfpZusO-80" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“事件上报&#xa;故障器械标记上报”" vertex="1">
+          <mxGeometry height="78" width="196" x="43" y="199" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-83" parent="ovvKUjcmh3rySVfpZusO-80" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“健康指导&#xa;患者家属指导”" vertex="1">
+          <mxGeometry height="78" width="164" x="59" y="352" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-84" parent="ovvKUjcmh3rySVfpZusO-80" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“物品补充&#xa;应急物品检查补充”" vertex="1">
+          <mxGeometry height="78" width="196" x="43" y="505" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-85" edge="1" parent="ovvKUjcmh3rySVfpZusO-80" source="ovvKUjcmh3rySVfpZusO-81" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" target="ovvKUjcmh3rySVfpZusO-82" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-86" edge="1" parent="ovvKUjcmh3rySVfpZusO-80" source="ovvKUjcmh3rySVfpZusO-82" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" target="ovvKUjcmh3rySVfpZusO-83" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-87" edge="1" parent="ovvKUjcmh3rySVfpZusO-80" source="ovvKUjcmh3rySVfpZusO-83" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" target="ovvKUjcmh3rySVfpZusO-84" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-88" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="紧急处理" vertex="1">
+          <mxGeometry height="354" width="256" x="2568" y="1678" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-89" parent="ovvKUjcmh3rySVfpZusO-88" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“误吸处理&#xa;全麻:气管镜检查&#xa;清醒:侧卧位吸氧”" vertex="1">
+          <mxGeometry height="102" width="186" x="43" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-90" parent="ovvKUjcmh3rySVfpZusO-88" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“误吞处理&#xa;全麻:术中胃镜&#xa;清醒:影像追踪”" vertex="1">
+          <mxGeometry height="102" width="170" x="51" y="223" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-91" edge="1" parent="ovvKUjcmh3rySVfpZusO-88" source="ovvKUjcmh3rySVfpZusO-89" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" target="ovvKUjcmh3rySVfpZusO-90" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-92" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="转诊处理" vertex="1">
+          <mxGeometry height="612" width="282" x="2554" y="1016" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-93" parent="ovvKUjcmh3rySVfpZusO-92" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“联系科室&#xa;急诊科专科会诊”" vertex="1">
+          <mxGeometry height="78" width="180" x="59" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-94" parent="ovvKUjcmh3rySVfpZusO-92" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“准备文书&#xa;转诊单病历资料”" vertex="1">
+          <mxGeometry height="78" width="180" x="59" y="199" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-95" parent="ovvKUjcmh3rySVfpZusO-92" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“协助转运&#xa;全麻需麻醉医生陪同”" vertex="1">
+          <mxGeometry height="78" width="212" x="43" y="352" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-96" parent="ovvKUjcmh3rySVfpZusO-92" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“科室交接&#xa;当面详细交接”" vertex="1">
+          <mxGeometry height="78" width="164" x="67" y="505" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-97" edge="1" parent="ovvKUjcmh3rySVfpZusO-92" source="ovvKUjcmh3rySVfpZusO-93" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" target="ovvKUjcmh3rySVfpZusO-94" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-98" edge="1" parent="ovvKUjcmh3rySVfpZusO-92" source="ovvKUjcmh3rySVfpZusO-94" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" target="ovvKUjcmh3rySVfpZusO-95" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-99" edge="1" parent="ovvKUjcmh3rySVfpZusO-92" source="ovvKUjcmh3rySVfpZusO-95" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" target="ovvKUjcmh3rySVfpZusO-96" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-100" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="取出后工作" vertex="1">
+          <mxGeometry height="636" width="250" x="2570" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-101" parent="ovvKUjcmh3rySVfpZusO-100" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“检查完整&#xa;与原始器械比对”" vertex="1">
+          <mxGeometry height="78" width="180" x="43" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-102" parent="ovvKUjcmh3rySVfpZusO-100" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“监测安抚&#xa;全麻监测至苏醒&#xa;清醒安抚解释”" vertex="1">
+          <mxGeometry height="102" width="172" x="47" y="199" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-103" parent="ovvKUjcmh3rySVfpZusO-100" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“记录事件&#xa;时间线处理过程”" vertex="1">
+          <mxGeometry height="78" width="180" x="43" y="376" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-104" parent="ovvKUjcmh3rySVfpZusO-100" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“处理器械&#xa;贴故障标签上报”" vertex="1">
+          <mxGeometry height="78" width="180" x="43" y="529" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-105" edge="1" parent="ovvKUjcmh3rySVfpZusO-100" source="ovvKUjcmh3rySVfpZusO-101" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" target="ovvKUjcmh3rySVfpZusO-102" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-106" edge="1" parent="ovvKUjcmh3rySVfpZusO-100" source="ovvKUjcmh3rySVfpZusO-102" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" target="ovvKUjcmh3rySVfpZusO-103" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-107" edge="1" parent="ovvKUjcmh3rySVfpZusO-100" source="ovvKUjcmh3rySVfpZusO-103" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" target="ovvKUjcmh3rySVfpZusO-104" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-108" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="检查流程" vertex="1">
+          <mxGeometry height="612" width="246" x="1357" y="1453" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-109" parent="ovvKUjcmh3rySVfpZusO-108" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“联系影像科&#xa;‘急诊器械断离’”" vertex="1">
+          <mxGeometry height="78" width="176" x="43" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-110" parent="ovvKUjcmh3rySVfpZusO-108" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“评估风险&#xa;准备急救箱”" vertex="1">
+          <mxGeometry height="78" width="148" x="57" y="199" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-111" parent="ovvKUjcmh3rySVfpZusO-108" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“陪同检查&#xa;保持稳定体位”" vertex="1">
+          <mxGeometry height="78" width="164" x="49" y="352" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-112" parent="ovvKUjcmh3rySVfpZusO-108" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“取回报告&#xa;快速返回诊室”" vertex="1">
+          <mxGeometry height="78" width="164" x="49" y="505" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-113" edge="1" parent="ovvKUjcmh3rySVfpZusO-108" source="ovvKUjcmh3rySVfpZusO-109" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" target="ovvKUjcmh3rySVfpZusO-110" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-114" edge="1" parent="ovvKUjcmh3rySVfpZusO-108" source="ovvKUjcmh3rySVfpZusO-110" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" target="ovvKUjcmh3rySVfpZusO-111" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-115" edge="1" parent="ovvKUjcmh3rySVfpZusO-108" source="ovvKUjcmh3rySVfpZusO-111" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" target="ovvKUjcmh3rySVfpZusO-112" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-116" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="插管全麻选项" vertex="1">
+          <mxGeometry height="612" width="323" x="1318" y="791" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-117" parent="ovvKUjcmh3rySVfpZusO-116" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“①术中继续处理&#xa;如条件允许尝试取出”" vertex="1">
+          <mxGeometry height="78" width="212" x="63" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-118" parent="ovvKUjcmh3rySVfpZusO-116" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“②床旁影像检查&#xa;便携X线机需麻醉医生监护”" vertex="1">
+          <mxGeometry height="78" width="253" x="43" y="199" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-119" parent="ovvKUjcmh3rySVfpZusO-116" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“③苏醒后处理&#xa;等待苏醒后外出检查”" vertex="1">
+          <mxGeometry height="78" width="212" x="63" y="352" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-120" parent="ovvKUjcmh3rySVfpZusO-116" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“团队决策&#xa;医生麻醉医生护士”" vertex="1">
+          <mxGeometry height="78" width="196" x="71" y="505" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-121" edge="1" parent="ovvKUjcmh3rySVfpZusO-116" source="ovvKUjcmh3rySVfpZusO-117" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" target="ovvKUjcmh3rySVfpZusO-118" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-122" edge="1" parent="ovvKUjcmh3rySVfpZusO-116" source="ovvKUjcmh3rySVfpZusO-118" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" target="ovvKUjcmh3rySVfpZusO-119" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-123" edge="1" parent="ovvKUjcmh3rySVfpZusO-116" source="ovvKUjcmh3rySVfpZusO-119" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" target="ovvKUjcmh3rySVfpZusO-120" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-124" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="取出配合" vertex="1">
+          <mxGeometry height="636" width="282" x="1949" y="352" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-125" parent="ovvKUjcmh3rySVfpZusO-124" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“准备器械&#xa;显微镊止血钳粘接剂”" vertex="1">
+          <mxGeometry height="78" width="212" x="43" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-126" parent="ovvKUjcmh3rySVfpZusO-124" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“保持清晰&#xa;持续吸引照明冲洗”" vertex="1">
+          <mxGeometry height="78" width="196" x="51" y="199" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-127" parent="ovvKUjcmh3rySVfpZusO-124" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“监测安抚&#xa;全麻监测生命体征&#xa;清醒安抚配合”" vertex="1">
+          <mxGeometry height="102" width="188" x="55" y="352" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-128" parent="ovvKUjcmh3rySVfpZusO-124" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“准备送检&#xa;拍照记录”" vertex="1">
+          <mxGeometry height="78" width="132" x="83" y="529" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-129" edge="1" parent="ovvKUjcmh3rySVfpZusO-124" source="ovvKUjcmh3rySVfpZusO-125" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" target="ovvKUjcmh3rySVfpZusO-126" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-130" edge="1" parent="ovvKUjcmh3rySVfpZusO-124" source="ovvKUjcmh3rySVfpZusO-126" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" target="ovvKUjcmh3rySVfpZusO-127" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-131" edge="1" parent="ovvKUjcmh3rySVfpZusO-124" source="ovvKUjcmh3rySVfpZusO-127" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" target="ovvKUjcmh3rySVfpZusO-128" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-132" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="标准处理" vertex="1">
+          <mxGeometry height="612" width="278" x="492" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-133" parent="ovvKUjcmh3rySVfpZusO-132" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“1.安抚固定&#xa;‘请别动别吞咽’”" vertex="1">
+          <mxGeometry height="78" width="176" x="59" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-134" parent="ovvKUjcmh3rySVfpZusO-132" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“2.协助处理&#xa;递吸引器调照明”" vertex="1">
+          <mxGeometry height="78" width="180" x="57" y="199" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-135" parent="ovvKUjcmh3rySVfpZusO-132" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“3.评估风险&#xa;‘喉咙有异物感吗？’”" vertex="1">
+          <mxGeometry height="78" width="208" x="43" y="352" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-136" parent="ovvKUjcmh3rySVfpZusO-132" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“4.准备物品&#xa;应急器械包”" vertex="1">
+          <mxGeometry height="78" width="148" x="73" y="505" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-137" edge="1" parent="ovvKUjcmh3rySVfpZusO-132" source="ovvKUjcmh3rySVfpZusO-133" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" target="ovvKUjcmh3rySVfpZusO-134" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-138" edge="1" parent="ovvKUjcmh3rySVfpZusO-132" source="ovvKUjcmh3rySVfpZusO-134" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" target="ovvKUjcmh3rySVfpZusO-135" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-139" edge="1" parent="ovvKUjcmh3rySVfpZusO-132" source="ovvKUjcmh3rySVfpZusO-135" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" target="ovvKUjcmh3rySVfpZusO-136" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-140" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="特殊处理" vertex="1">
+          <mxGeometry height="612" width="266" x="498" y="348" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-141" parent="ovvKUjcmh3rySVfpZusO-140" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“1.报告麻醉医生&#xa;立即通报情况”" vertex="1">
+          <mxGeometry height="78" width="179" x="52" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-142" parent="ovvKUjcmh3rySVfpZusO-140" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“2.稳定术区&#xa;保持断端位置”" vertex="1">
+          <mxGeometry height="78" width="164" x="59" y="199" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-143" parent="ovvKUjcmh3rySVfpZusO-140" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“3.协商方案&#xa;医生麻醉医生共同”" vertex="1">
+          <mxGeometry height="78" width="196" x="43" y="352" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-144" parent="ovvKUjcmh3rySVfpZusO-140" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“4.准备物品&#xa;应急器械抢救设备”" vertex="1">
+          <mxGeometry height="78" width="196" x="43" y="505" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-145" edge="1" parent="ovvKUjcmh3rySVfpZusO-140" source="ovvKUjcmh3rySVfpZusO-141" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" target="ovvKUjcmh3rySVfpZusO-142" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-146" edge="1" parent="ovvKUjcmh3rySVfpZusO-140" source="ovvKUjcmh3rySVfpZusO-142" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" target="ovvKUjcmh3rySVfpZusO-143" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-147" edge="1" parent="ovvKUjcmh3rySVfpZusO-140" source="ovvKUjcmh3rySVfpZusO-143" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" target="ovvKUjcmh3rySVfpZusO-144" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-148" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“发现器械断离”" vertex="1">
+          <mxGeometry height="54" width="173" x="20" y="958" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-149" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“患者是否&#xa;插管全麻？”" vertex="1">
+          <mxGeometry height="166" width="166" x="243" y="902" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-150" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“断端是否&#xa;可见？”" vertex="1">
+          <mxGeometry height="150" width="150" x="820" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-151" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“患者&#xa;类型？”" vertex="1">
+          <mxGeometry height="134" width="134" x="1053" y="1271" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-152" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“取出&#xa;成功？”" vertex="1">
+          <mxGeometry height="134" width="134" x="2337" y="603" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-153" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“影像结果&#xa;判断”" vertex="1">
+          <mxGeometry height="150" width="150" x="1692" y="1263" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-154" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="“流程结束&#xa;重点交班”" vertex="1">
+          <mxGeometry height="78" width="132" x="3203" y="1283" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-155" edge="1" parent="1" source="ovvKUjcmh3rySVfpZusO-148" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" target="ovvKUjcmh3rySVfpZusO-149" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-156" edge="1" parent="1" source="ovvKUjcmh3rySVfpZusO-150" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" target="ovvKUjcmh3rySVfpZusO-151" value="“否”">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-157" edge="1" parent="1" source="ovvKUjcmh3rySVfpZusO-149" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0;entryY=0.5;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" target="ovvKUjcmh3rySVfpZusO-140" value="“是”">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-158" edge="1" parent="1" source="ovvKUjcmh3rySVfpZusO-149" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.5;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" target="ovvKUjcmh3rySVfpZusO-132" value="“否”">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-159" edge="1" parent="1" source="ovvKUjcmh3rySVfpZusO-140" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" target="ovvKUjcmh3rySVfpZusO-150" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="793" y="654" />
+              <mxPoint x="793" y="985" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-160" edge="1" parent="1" source="ovvKUjcmh3rySVfpZusO-132" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;edgeStyle=orthogonalEdgeStyle;" target="ovvKUjcmh3rySVfpZusO-150" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="792" y="1316" />
+              <mxPoint x="792" y="985" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-161" edge="1" parent="1" source="ovvKUjcmh3rySVfpZusO-150" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.47;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" target="ovvKUjcmh3rySVfpZusO-124" value="“是”">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1011" y="985" />
+              <mxPoint x="1011" y="651" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-162" edge="1" parent="1" source="ovvKUjcmh3rySVfpZusO-124" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" target="ovvKUjcmh3rySVfpZusO-152" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-163" edge="1" parent="1" source="ovvKUjcmh3rySVfpZusO-151" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" target="ovvKUjcmh3rySVfpZusO-116" value="“插管全麻”">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-164" edge="1" parent="1" source="ovvKUjcmh3rySVfpZusO-151" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" target="ovvKUjcmh3rySVfpZusO-108" value="“清醒患者”">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1253" y="1338" />
+              <mxPoint x="1253" y="1759" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-165" edge="1" parent="1" source="ovvKUjcmh3rySVfpZusO-152" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=-0.002;entryY=0.535;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="ovvKUjcmh3rySVfpZusO-100" value="“是”">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-166" edge="1" parent="1" source="ovvKUjcmh3rySVfpZusO-152" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.22;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" target="ovvKUjcmh3rySVfpZusO-92" value="“否”">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2486" y="670" />
+              <mxPoint x="2486" y="1151" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-167" edge="1" parent="1" source="ovvKUjcmh3rySVfpZusO-116" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" target="ovvKUjcmh3rySVfpZusO-153" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1666" y="1097" />
+              <mxPoint x="1666" y="1338" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-168" edge="1" parent="1" source="ovvKUjcmh3rySVfpZusO-108" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" target="ovvKUjcmh3rySVfpZusO-153" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1666" y="1759" />
+              <mxPoint x="1666" y="1338" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-169" edge="1" parent="1" source="ovvKUjcmh3rySVfpZusO-153" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.81;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" target="ovvKUjcmh3rySVfpZusO-124" value="“可安全&#xa;取出”">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-170" edge="1" parent="1" source="ovvKUjcmh3rySVfpZusO-153" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.52;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" target="ovvKUjcmh3rySVfpZusO-92" value="“需专科&#xa;处理”">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2513" y="1338" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-171" edge="1" parent="1" source="ovvKUjcmh3rySVfpZusO-153" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" target="ovvKUjcmh3rySVfpZusO-88" value="“紧急&#xa;风险”">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1897" y="1338" />
+              <mxPoint x="1897" y="1855" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-172" edge="1" parent="1" source="ovvKUjcmh3rySVfpZusO-100" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" target="ovvKUjcmh3rySVfpZusO-80" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-173" edge="1" parent="1" source="ovvKUjcmh3rySVfpZusO-92" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" target="ovvKUjcmh3rySVfpZusO-80" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-174" edge="1" parent="1" source="ovvKUjcmh3rySVfpZusO-88" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=1;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" target="ovvKUjcmh3rySVfpZusO-80" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ovvKUjcmh3rySVfpZusO-175" edge="1" parent="1" source="ovvKUjcmh3rySVfpZusO-80" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" target="ovvKUjcmh3rySVfpZusO-154" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
