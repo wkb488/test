@@ -1017,175 +1017,175 @@
     </mxGraphModel>
   </diagram>
   <diagram id="D_zSUL9q80Mjl9ybEBTs" name="第 7 页">
-    <mxGraphModel dx="4440" dy="2463" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1600" pageHeight="1200" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4440" dy="2463" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1600" pageHeight="1200" background="none" math="0" shadow="0" adaptiveColors="auto">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="keaoIZe982hKBaPAC_38-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=22;labelBackgroundColor=none;" value="抢救后必须完成事项" vertex="1">
+        <mxCell id="keaoIZe982hKBaPAC_38-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#FFFFFF;rounded=0;" value="抢救后必须完成事项" vertex="1">
           <mxGeometry height="172" width="1372" x="1380" y="1156" as="geometry" />
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-2" parent="keaoIZe982hKBaPAC_38-1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;" value="“1. 证据保全&#xa;封存所有药瓶与材料”" vertex="1">
+        <mxCell id="keaoIZe982hKBaPAC_38-2" parent="keaoIZe982hKBaPAC_38-1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#FFFFFF;rounded=0;" value="“1. 证据保全&#xa;封存所有药瓶与材料”" vertex="1">
           <mxGeometry height="78" width="212" x="46" y="55" as="geometry" />
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-3" parent="keaoIZe982hKBaPAC_38-1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;" value="“2. 抽血留样&#xa;重点：类胰蛋白酶&#xa;（1-2小时及24小时）”" vertex="1">
+        <mxCell id="keaoIZe982hKBaPAC_38-3" parent="keaoIZe982hKBaPAC_38-1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#FFFFFF;rounded=0;" value="“2. 抽血留样&#xa;重点：类胰蛋白酶&#xa;（1-2小时及24小时）”" vertex="1">
           <mxGeometry height="102" width="212" x="333" y="43" as="geometry" />
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-4" parent="keaoIZe982hKBaPAC_38-1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;" value="“3. 患者标识&#xa;红笔标注过敏史”" vertex="1">
+        <mxCell id="keaoIZe982hKBaPAC_38-4" parent="keaoIZe982hKBaPAC_38-1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#FFFFFF;rounded=0;" value="“3. 患者标识&#xa;红笔标注过敏史”" vertex="1">
           <mxGeometry height="78" width="180" x="620" y="55" as="geometry" />
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-5" parent="keaoIZe982hKBaPAC_38-1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;" value="“4. 详细交接&#xa;向接收科室完整交接”" vertex="1">
+        <mxCell id="keaoIZe982hKBaPAC_38-5" parent="keaoIZe982hKBaPAC_38-1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#FFFFFF;rounded=0;" value="“4. 详细交接&#xa;向接收科室完整交接”" vertex="1">
           <mxGeometry height="78" width="212" x="875" y="55" as="geometry" />
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-6" parent="keaoIZe982hKBaPAC_38-1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;" value="“5. 事件上报&#xa;按要求完成报告”" vertex="1">
+        <mxCell id="keaoIZe982hKBaPAC_38-6" parent="keaoIZe982hKBaPAC_38-1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#FFFFFF;rounded=0;" value="“5. 事件上报&#xa;按要求完成报告”" vertex="1">
           <mxGeometry height="78" width="180" x="1163" y="55" as="geometry" />
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-7" edge="1" parent="keaoIZe982hKBaPAC_38-1" source="keaoIZe982hKBaPAC_38-2" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;" target="keaoIZe982hKBaPAC_38-3" value="">
+        <mxCell id="keaoIZe982hKBaPAC_38-7" edge="1" parent="keaoIZe982hKBaPAC_38-1" source="keaoIZe982hKBaPAC_38-2" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;strokeColor=#736CA8;" target="keaoIZe982hKBaPAC_38-3" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-8" edge="1" parent="keaoIZe982hKBaPAC_38-1" source="keaoIZe982hKBaPAC_38-3" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;" target="keaoIZe982hKBaPAC_38-4" value="">
+        <mxCell id="keaoIZe982hKBaPAC_38-8" edge="1" parent="keaoIZe982hKBaPAC_38-1" source="keaoIZe982hKBaPAC_38-3" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;strokeColor=#736CA8;" target="keaoIZe982hKBaPAC_38-4" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-9" edge="1" parent="keaoIZe982hKBaPAC_38-1" source="keaoIZe982hKBaPAC_38-4" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;" target="keaoIZe982hKBaPAC_38-5" value="">
+        <mxCell id="keaoIZe982hKBaPAC_38-9" edge="1" parent="keaoIZe982hKBaPAC_38-1" source="keaoIZe982hKBaPAC_38-4" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;strokeColor=#736CA8;" target="keaoIZe982hKBaPAC_38-5" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-10" edge="1" parent="keaoIZe982hKBaPAC_38-1" source="keaoIZe982hKBaPAC_38-5" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;" target="keaoIZe982hKBaPAC_38-6" value="">
+        <mxCell id="keaoIZe982hKBaPAC_38-10" edge="1" parent="keaoIZe982hKBaPAC_38-1" source="keaoIZe982hKBaPAC_38-5" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;strokeColor=#736CA8;" target="keaoIZe982hKBaPAC_38-6" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-11" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=22;labelBackgroundColor=none;" value="重度过敏抢救路径" vertex="1">
+        <mxCell id="keaoIZe982hKBaPAC_38-11" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#FFFFFF;rounded=0;" value="重度过敏抢救路径" vertex="1">
           <mxGeometry height="172" width="2124" x="940" y="461" as="geometry" />
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-12" parent="keaoIZe982hKBaPAC_38-11" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;" value="“放平患者&#xa;仰卧位双腿抬高”" vertex="1">
+        <mxCell id="keaoIZe982hKBaPAC_38-12" parent="keaoIZe982hKBaPAC_38-11" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#FFFFFF;rounded=0;" value="“放平患者&#xa;仰卧位双腿抬高”" vertex="1">
           <mxGeometry height="78" width="180" x="46" y="55" as="geometry" />
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-13" parent="keaoIZe982hKBaPAC_38-11" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;" value="“高声呼叫急救团队”" vertex="1">
+        <mxCell id="keaoIZe982hKBaPAC_38-13" parent="keaoIZe982hKBaPAC_38-11" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#FFFFFF;rounded=0;" value="“高声呼叫急救团队”" vertex="1">
           <mxGeometry height="54" width="205" x="301" y="67" as="geometry" />
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-14" parent="keaoIZe982hKBaPAC_38-11" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;" value="“立即高流量吸氧”" vertex="1">
+        <mxCell id="keaoIZe982hKBaPAC_38-14" parent="keaoIZe982hKBaPAC_38-11" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#FFFFFF;rounded=0;" value="“立即高流量吸氧”" vertex="1">
           <mxGeometry height="54" width="189" x="581" y="67" as="geometry" />
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-15" parent="keaoIZe982hKBaPAC_38-11" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;" value="“准备肾上腺素&#xa;成人:0.3-0.5ml&#xa;儿童:0.01mg/kg”" vertex="1">
+        <mxCell id="keaoIZe982hKBaPAC_38-15" parent="keaoIZe982hKBaPAC_38-11" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#FFFFFF;rounded=0;" value="“准备肾上腺素&#xa;成人:0.3-0.5ml&#xa;儿童:0.01mg/kg”" vertex="1">
           <mxGeometry height="102" width="183" x="844" y="43" as="geometry" />
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-16" parent="keaoIZe982hKBaPAC_38-11" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;" value="“肾上腺素肌注&#xa;成人:0.3-0.5mg&#xa;儿童:0.01mg/kg”" vertex="1">
+        <mxCell id="keaoIZe982hKBaPAC_38-16" parent="keaoIZe982hKBaPAC_38-11" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#FFFFFF;rounded=0;" value="“肾上腺素肌注&#xa;成人:0.3-0.5mg&#xa;儿童:0.01mg/kg”" vertex="1">
           <mxGeometry height="102" width="183" x="1103" y="43" as="geometry" />
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-17" parent="keaoIZe982hKBaPAC_38-11" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;" value="“快速补液&#xa;成人:500-1000ml&#xa;儿童:20ml/kg”" vertex="1">
+        <mxCell id="keaoIZe982hKBaPAC_38-17" parent="keaoIZe982hKBaPAC_38-11" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#FFFFFF;rounded=0;" value="“快速补液&#xa;成人:500-1000ml&#xa;儿童:20ml/kg”" vertex="1">
           <mxGeometry height="102" width="180" x="1361" y="43" as="geometry" />
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-18" parent="keaoIZe982hKBaPAC_38-11" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;" value="“地塞米松静推&#xa;成人:10mg&#xa;儿童:0.3-0.5mg/kg”" vertex="1">
+        <mxCell id="keaoIZe982hKBaPAC_38-18" parent="keaoIZe982hKBaPAC_38-11" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#FFFFFF;rounded=0;" value="“地塞米松静推&#xa;成人:10mg&#xa;儿童:0.3-0.5mg/kg”" vertex="1">
           <mxGeometry height="102" width="203" x="1616" y="43" as="geometry" />
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-19" parent="keaoIZe982hKBaPAC_38-11" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;" value="“抗组胺药&#xa;成人:苯海拉明20mg&#xa;儿童:0.5mg/kg”" vertex="1">
+        <mxCell id="keaoIZe982hKBaPAC_38-19" parent="keaoIZe982hKBaPAC_38-11" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#FFFFFF;rounded=0;" value="“抗组胺药&#xa;成人:苯海拉明20mg&#xa;儿童:0.5mg/kg”" vertex="1">
           <mxGeometry height="102" width="200" x="1894" y="43" as="geometry" />
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-20" edge="1" parent="keaoIZe982hKBaPAC_38-11" source="keaoIZe982hKBaPAC_38-12" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;" target="keaoIZe982hKBaPAC_38-13" value="">
+        <mxCell id="keaoIZe982hKBaPAC_38-20" edge="1" parent="keaoIZe982hKBaPAC_38-11" source="keaoIZe982hKBaPAC_38-12" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;strokeColor=#736CA8;" target="keaoIZe982hKBaPAC_38-13" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-21" edge="1" parent="keaoIZe982hKBaPAC_38-11" source="keaoIZe982hKBaPAC_38-13" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;" target="keaoIZe982hKBaPAC_38-14" value="">
+        <mxCell id="keaoIZe982hKBaPAC_38-21" edge="1" parent="keaoIZe982hKBaPAC_38-11" source="keaoIZe982hKBaPAC_38-13" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;strokeColor=#736CA8;" target="keaoIZe982hKBaPAC_38-14" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-22" edge="1" parent="keaoIZe982hKBaPAC_38-11" source="keaoIZe982hKBaPAC_38-14" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;" target="keaoIZe982hKBaPAC_38-15" value="">
+        <mxCell id="keaoIZe982hKBaPAC_38-22" edge="1" parent="keaoIZe982hKBaPAC_38-11" source="keaoIZe982hKBaPAC_38-14" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;strokeColor=#736CA8;" target="keaoIZe982hKBaPAC_38-15" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-23" edge="1" parent="keaoIZe982hKBaPAC_38-11" source="keaoIZe982hKBaPAC_38-15" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;" target="keaoIZe982hKBaPAC_38-16" value="">
+        <mxCell id="keaoIZe982hKBaPAC_38-23" edge="1" parent="keaoIZe982hKBaPAC_38-11" source="keaoIZe982hKBaPAC_38-15" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;strokeColor=#736CA8;" target="keaoIZe982hKBaPAC_38-16" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-24" edge="1" parent="keaoIZe982hKBaPAC_38-11" source="keaoIZe982hKBaPAC_38-16" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;" target="keaoIZe982hKBaPAC_38-17" value="">
+        <mxCell id="keaoIZe982hKBaPAC_38-24" edge="1" parent="keaoIZe982hKBaPAC_38-11" source="keaoIZe982hKBaPAC_38-16" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;strokeColor=#736CA8;" target="keaoIZe982hKBaPAC_38-17" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-25" edge="1" parent="keaoIZe982hKBaPAC_38-11" source="keaoIZe982hKBaPAC_38-17" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;" target="keaoIZe982hKBaPAC_38-18" value="">
+        <mxCell id="keaoIZe982hKBaPAC_38-25" edge="1" parent="keaoIZe982hKBaPAC_38-11" source="keaoIZe982hKBaPAC_38-17" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;strokeColor=#736CA8;" target="keaoIZe982hKBaPAC_38-18" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-26" edge="1" parent="keaoIZe982hKBaPAC_38-11" source="keaoIZe982hKBaPAC_38-18" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;" target="keaoIZe982hKBaPAC_38-19" value="">
+        <mxCell id="keaoIZe982hKBaPAC_38-26" edge="1" parent="keaoIZe982hKBaPAC_38-11" source="keaoIZe982hKBaPAC_38-18" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;strokeColor=#736CA8;" target="keaoIZe982hKBaPAC_38-19" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-27" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=22;labelBackgroundColor=none;" value="轻度过敏处理路径" vertex="1">
+        <mxCell id="keaoIZe982hKBaPAC_38-27" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#FFFFFF;rounded=0;" value="轻度过敏处理路径" vertex="1">
           <mxGeometry height="172" width="1666" x="20" y="697" as="geometry" />
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-28" parent="keaoIZe982hKBaPAC_38-27" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;" value="“1. 暂停可疑过敏原”" vertex="1">
+        <mxCell id="keaoIZe982hKBaPAC_38-28" parent="keaoIZe982hKBaPAC_38-27" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#FFFFFF;rounded=0;" value="“1. 暂停可疑过敏原”" vertex="1">
           <mxGeometry height="54" width="208" x="46" y="67" as="geometry" />
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-29" parent="keaoIZe982hKBaPAC_38-27" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;" value="“2. 立即报告医生”" vertex="1">
+        <mxCell id="keaoIZe982hKBaPAC_38-29" parent="keaoIZe982hKBaPAC_38-27" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#FFFFFF;rounded=0;" value="“2. 立即报告医生”" vertex="1">
           <mxGeometry height="54" width="192" x="328" y="67" as="geometry" />
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-30" parent="keaoIZe982hKBaPAC_38-27" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;" value="“3. 准备抗过敏药&#xa;成人:苯海拉明20mg&#xa;儿童:0.5mg/kg”" vertex="1">
+        <mxCell id="keaoIZe982hKBaPAC_38-30" parent="keaoIZe982hKBaPAC_38-27" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#FFFFFF;rounded=0;" value="“3. 准备抗过敏药&#xa;成人:苯海拉明20mg&#xa;儿童:0.5mg/kg”" vertex="1">
           <mxGeometry height="102" width="200" x="595" y="43" as="geometry" />
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-31" parent="keaoIZe982hKBaPAC_38-27" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;" value="“4. 持续监测生命体征”" vertex="1">
+        <mxCell id="keaoIZe982hKBaPAC_38-31" parent="keaoIZe982hKBaPAC_38-27" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#FFFFFF;rounded=0;" value="“4. 持续监测生命体征”" vertex="1">
           <mxGeometry height="54" width="224" x="870" y="67" as="geometry" />
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-32" parent="keaoIZe982hKBaPAC_38-27" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;" value="“5. 安抚患者/家属”" vertex="1">
+        <mxCell id="keaoIZe982hKBaPAC_38-32" parent="keaoIZe982hKBaPAC_38-27" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#FFFFFF;rounded=0;" value="“5. 安抚患者/家属”" vertex="1">
           <mxGeometry height="54" width="200" x="1169" y="67" as="geometry" />
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-33" parent="keaoIZe982hKBaPAC_38-27" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;" value="“6. 执行医嘱给药”" vertex="1">
+        <mxCell id="keaoIZe982hKBaPAC_38-33" parent="keaoIZe982hKBaPAC_38-27" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#FFFFFF;rounded=0;" value="“6. 执行医嘱给药”" vertex="1">
           <mxGeometry height="54" width="192" x="1444" y="67" as="geometry" />
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-34" edge="1" parent="keaoIZe982hKBaPAC_38-27" source="keaoIZe982hKBaPAC_38-28" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;" target="keaoIZe982hKBaPAC_38-29" value="">
+        <mxCell id="keaoIZe982hKBaPAC_38-34" edge="1" parent="keaoIZe982hKBaPAC_38-27" source="keaoIZe982hKBaPAC_38-28" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;strokeColor=#736CA8;" target="keaoIZe982hKBaPAC_38-29" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-35" edge="1" parent="keaoIZe982hKBaPAC_38-27" source="keaoIZe982hKBaPAC_38-29" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;" target="keaoIZe982hKBaPAC_38-30" value="">
+        <mxCell id="keaoIZe982hKBaPAC_38-35" edge="1" parent="keaoIZe982hKBaPAC_38-27" source="keaoIZe982hKBaPAC_38-29" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;strokeColor=#736CA8;" target="keaoIZe982hKBaPAC_38-30" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-36" edge="1" parent="keaoIZe982hKBaPAC_38-27" source="keaoIZe982hKBaPAC_38-30" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;" target="keaoIZe982hKBaPAC_38-31" value="">
+        <mxCell id="keaoIZe982hKBaPAC_38-36" edge="1" parent="keaoIZe982hKBaPAC_38-27" source="keaoIZe982hKBaPAC_38-30" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;strokeColor=#736CA8;" target="keaoIZe982hKBaPAC_38-31" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-37" edge="1" parent="keaoIZe982hKBaPAC_38-27" source="keaoIZe982hKBaPAC_38-31" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;" target="keaoIZe982hKBaPAC_38-32" value="">
+        <mxCell id="keaoIZe982hKBaPAC_38-37" edge="1" parent="keaoIZe982hKBaPAC_38-27" source="keaoIZe982hKBaPAC_38-31" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;strokeColor=#736CA8;" target="keaoIZe982hKBaPAC_38-32" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-38" edge="1" parent="keaoIZe982hKBaPAC_38-27" source="keaoIZe982hKBaPAC_38-32" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;" target="keaoIZe982hKBaPAC_38-33" value="">
+        <mxCell id="keaoIZe982hKBaPAC_38-38" edge="1" parent="keaoIZe982hKBaPAC_38-27" source="keaoIZe982hKBaPAC_38-32" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;strokeColor=#736CA8;" target="keaoIZe982hKBaPAC_38-33" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-39" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;" value="“发现过敏症状”" vertex="1">
+        <mxCell id="keaoIZe982hKBaPAC_38-39" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#FFFFFF;rounded=0;" value="“发现过敏症状”" vertex="1">
           <mxGeometry height="54" width="173" x="1341" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-40" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=22;labelBackgroundColor=none;" value="“快速评估&#xa;30秒内完成”" vertex="1">
+        <mxCell id="keaoIZe982hKBaPAC_38-40" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#FFFFFF;rounded=0;" value="“快速评估&#xa;30秒内完成”" vertex="1">
           <mxGeometry height="167" width="167" x="1344" y="124" as="geometry" />
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-41" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;" value="“密切观察30分钟”" vertex="1">
+        <mxCell id="keaoIZe982hKBaPAC_38-41" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#FFFFFF;rounded=0;" value="“密切观察30分钟”" vertex="1">
           <mxGeometry height="54" width="190" x="758" y="1004" as="geometry" />
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-42" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;" value="“症状缓解后处理：&#xa;• 记录事件经过&#xa;• 标识可疑过敏物&#xa;• 对患者/家属宣教”" vertex="1">
+        <mxCell id="keaoIZe982hKBaPAC_38-42" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#FFFFFF;rounded=0;" value="“症状缓解后处理：&#xa;• 记录事件经过&#xa;• 标识可疑过敏物&#xa;• 对患者/家属宣教”" vertex="1">
           <mxGeometry height="126" width="202" x="752" y="1179" as="geometry" />
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-43" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=22;labelBackgroundColor=none;" value="“再次评估患者状况”" vertex="1">
+        <mxCell id="keaoIZe982hKBaPAC_38-43" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#FFFFFF;rounded=0;" value="“再次评估患者状况”" vertex="1">
           <mxGeometry height="199" width="199" x="1903" y="683" as="geometry" />
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-44" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;" value="“升级处理措施：&#xa;• 启动全院急救呼叫&#xa;• 通知医院总值班&#xa;• 准备电梯待命&#xa;• 准备转运设备”" vertex="1">
+        <mxCell id="keaoIZe982hKBaPAC_38-44" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#FFFFFF;rounded=0;" value="“升级处理措施：&#xa;• 启动全院急救呼叫&#xa;• 通知医院总值班&#xa;• 准备电梯待命&#xa;• 准备转运设备”" vertex="1">
           <mxGeometry height="150" width="201" x="1966" y="956" as="geometry" />
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-61" edge="1" parent="1" source="keaoIZe982hKBaPAC_38-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="keaoIZe982hKBaPAC_38-1" value="">
+        <mxCell id="keaoIZe982hKBaPAC_38-61" edge="1" parent="1" source="keaoIZe982hKBaPAC_38-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;fontSize=22;" target="keaoIZe982hKBaPAC_38-1" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2339" y="1137" />
@@ -1193,23 +1193,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-45" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;" value="“立即启动CPR&#xa;心肺复苏程序”" vertex="1">
+        <mxCell id="keaoIZe982hKBaPAC_38-45" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#FFFFFF;rounded=0;" value="“立即启动CPR&#xa;心肺复苏程序”" vertex="1">
           <mxGeometry height="78" width="164" x="2257" y="992" as="geometry" />
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-46" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;" value="“流程结束”" vertex="1">
+        <mxCell id="keaoIZe982hKBaPAC_38-46" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#FFFFFF;rounded=0;" value="“流程结束”" vertex="1">
           <mxGeometry height="54" width="141" x="1317" y="1378" as="geometry" />
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-47" edge="1" parent="1" source="keaoIZe982hKBaPAC_38-39" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;" target="keaoIZe982hKBaPAC_38-40" value="">
+        <mxCell id="keaoIZe982hKBaPAC_38-47" edge="1" parent="1" source="keaoIZe982hKBaPAC_38-39" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;strokeColor=#736CA8;" target="keaoIZe982hKBaPAC_38-40" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-48" edge="1" parent="1" source="keaoIZe982hKBaPAC_38-41" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;" target="keaoIZe982hKBaPAC_38-42" value="">
+        <mxCell id="keaoIZe982hKBaPAC_38-48" edge="1" parent="1" source="keaoIZe982hKBaPAC_38-41" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;strokeColor=#736CA8;" target="keaoIZe982hKBaPAC_38-42" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-49" edge="1" parent="1" source="keaoIZe982hKBaPAC_38-43" style="startArrow=none;endArrow=block;exitX=0.73;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;edgeStyle=orthogonalEdgeStyle;" target="keaoIZe982hKBaPAC_38-44" value="“症状未缓解/加重”">
+        <mxCell id="keaoIZe982hKBaPAC_38-49" edge="1" parent="1" source="keaoIZe982hKBaPAC_38-43" style="startArrow=none;endArrow=block;exitX=0.73;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;edgeStyle=orthogonalEdgeStyle;strokeColor=#736CA8;" target="keaoIZe982hKBaPAC_38-44" value="“症状未缓解/加重”">
           <mxGeometry relative="1" x="-0.0109" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
@@ -1219,7 +1219,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-50" edge="1" parent="1" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;edgeStyle=orthogonalEdgeStyle;" target="keaoIZe982hKBaPAC_38-45" value="“出现心跳呼吸骤停”">
+        <mxCell id="keaoIZe982hKBaPAC_38-50" edge="1" parent="1" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;edgeStyle=orthogonalEdgeStyle;strokeColor=#736CA8;" target="keaoIZe982hKBaPAC_38-45" value="“出现心跳呼吸骤停”">
           <mxGeometry relative="1" x="-0.1914" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
@@ -1229,10 +1229,10 @@
             <mxPoint x="2103" y="791" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-51" edge="1" parent="1" source="keaoIZe982hKBaPAC_38-42" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.37;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;edgeStyle=orthogonalEdgeStyle;" target="keaoIZe982hKBaPAC_38-46" value="">
+        <mxCell id="keaoIZe982hKBaPAC_38-51" edge="1" parent="1" source="keaoIZe982hKBaPAC_38-42" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.37;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;edgeStyle=orthogonalEdgeStyle;strokeColor=#736CA8;" target="keaoIZe982hKBaPAC_38-46" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-52" edge="1" parent="1" source="keaoIZe982hKBaPAC_38-40" style="startArrow=none;endArrow=block;exitX=0;exitY=0.65;entryX=0.5;entryY=0;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;edgeStyle=orthogonalEdgeStyle;" target="keaoIZe982hKBaPAC_38-27" value="“仅皮疹/瘙痒&#xa;生命体征平稳”">
+        <mxCell id="keaoIZe982hKBaPAC_38-52" edge="1" parent="1" source="keaoIZe982hKBaPAC_38-40" style="startArrow=none;endArrow=block;exitX=0;exitY=0.65;entryX=0.5;entryY=0;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;edgeStyle=orthogonalEdgeStyle;strokeColor=#736CA8;" target="keaoIZe982hKBaPAC_38-27" value="“仅皮疹/瘙痒&#xa;生命体征平稳”">
           <mxGeometry relative="1" x="-0.1529" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
@@ -1241,12 +1241,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-53" edge="1" parent="1" source="keaoIZe982hKBaPAC_38-27" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;" target="keaoIZe982hKBaPAC_38-41" value="">
+        <mxCell id="keaoIZe982hKBaPAC_38-53" edge="1" parent="1" source="keaoIZe982hKBaPAC_38-27" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;strokeColor=#736CA8;" target="keaoIZe982hKBaPAC_38-41" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-54" edge="1" parent="1" source="keaoIZe982hKBaPAC_38-40" style="startArrow=none;endArrow=block;exitX=1;exitY=0.65;entryX=0.5;entryY=0;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;edgeStyle=orthogonalEdgeStyle;" target="keaoIZe982hKBaPAC_38-11" value="“出现以下任一症状：&#xa;• 呼吸困难/喘息/喉鸣&#xa;• 血压骤降&#xa;• 意识改变&#xa;• 全身荨麻疹/水肿”">
+        <mxCell id="keaoIZe982hKBaPAC_38-54" edge="1" parent="1" source="keaoIZe982hKBaPAC_38-40" style="startArrow=none;endArrow=block;exitX=1;exitY=0.65;entryX=0.5;entryY=0;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;edgeStyle=orthogonalEdgeStyle;strokeColor=#736CA8;" target="keaoIZe982hKBaPAC_38-11" value="“出现以下任一症状：&#xa;• 呼吸困难/喘息/喉鸣&#xa;• 血压骤降&#xa;• 意识改变&#xa;• 全身荨麻疹/水肿”">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1492" y="208" />
@@ -1254,12 +1254,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-55" edge="1" parent="1" source="keaoIZe982hKBaPAC_38-11" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;" target="keaoIZe982hKBaPAC_38-43" value="">
+        <mxCell id="keaoIZe982hKBaPAC_38-55" edge="1" parent="1" source="keaoIZe982hKBaPAC_38-11" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;strokeColor=#736CA8;" target="keaoIZe982hKBaPAC_38-43" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-56" edge="1" parent="1" source="keaoIZe982hKBaPAC_38-43" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="keaoIZe982hKBaPAC_38-1" value="“生命体征趋于稳定”">
+        <mxCell id="keaoIZe982hKBaPAC_38-56" edge="1" parent="1" source="keaoIZe982hKBaPAC_38-43" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#736CA8;" target="keaoIZe982hKBaPAC_38-1" value="“生命体征趋于稳定”">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1729" y="782" />
@@ -1268,12 +1268,12 @@
             <mxPoint x="1763" y="1154" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-57" edge="1" parent="1" source="keaoIZe982hKBaPAC_38-44" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;" target="keaoIZe982hKBaPAC_38-1" value="">
+        <mxCell id="keaoIZe982hKBaPAC_38-57" edge="1" parent="1" source="keaoIZe982hKBaPAC_38-44" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;strokeColor=#736CA8;" target="keaoIZe982hKBaPAC_38-1" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="keaoIZe982hKBaPAC_38-59" edge="1" parent="1" source="keaoIZe982hKBaPAC_38-1" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.4;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;edgeStyle=orthogonalEdgeStyle;" target="keaoIZe982hKBaPAC_38-46" value="">
+        <mxCell id="keaoIZe982hKBaPAC_38-59" edge="1" parent="1" source="keaoIZe982hKBaPAC_38-1" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.4;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=default;edgeStyle=orthogonalEdgeStyle;strokeColor=#736CA8;" target="keaoIZe982hKBaPAC_38-46" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
@@ -1284,224 +1284,224 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=22;" value="评估·加强药·休息·改期" vertex="1">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="评估·加强药·休息·改期" vertex="1">
           <mxGeometry height="124" width="947" x="962" y="932" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-2" parent="f9AmiHh9ryeF64AJUNRb-1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="医生评估决定" vertex="1">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-2" parent="f9AmiHh9ryeF64AJUNRb-1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="医生评估决定" vertex="1">
           <mxGeometry height="54" width="156" x="46" y="43" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-3" parent="f9AmiHh9ryeF64AJUNRb-1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="加强药物治疗" vertex="1">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-3" parent="f9AmiHh9ryeF64AJUNRb-1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="加强药物治疗" vertex="1">
           <mxGeometry height="54" width="156" x="277" y="43" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-4" parent="f9AmiHh9ryeF64AJUNRb-1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="休息观察2-4小时" vertex="1">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-4" parent="f9AmiHh9ryeF64AJUNRb-1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="休息观察2-4小时" vertex="1">
           <mxGeometry height="54" width="179" x="508" y="43" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-5" parent="f9AmiHh9ryeF64AJUNRb-1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="安排改期治疗" vertex="1">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-5" parent="f9AmiHh9ryeF64AJUNRb-1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="安排改期治疗" vertex="1">
           <mxGeometry height="54" width="156" x="761" y="43" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-6" edge="1" parent="f9AmiHh9ryeF64AJUNRb-1" source="f9AmiHh9ryeF64AJUNRb-2" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-3" value="">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-6" edge="1" parent="f9AmiHh9ryeF64AJUNRb-1" source="f9AmiHh9ryeF64AJUNRb-2" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" target="f9AmiHh9ryeF64AJUNRb-3" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-7" edge="1" parent="f9AmiHh9ryeF64AJUNRb-1" source="f9AmiHh9ryeF64AJUNRb-3" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-4" value="">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-7" edge="1" parent="f9AmiHh9ryeF64AJUNRb-1" source="f9AmiHh9ryeF64AJUNRb-3" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" target="f9AmiHh9ryeF64AJUNRb-4" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-8" edge="1" parent="f9AmiHh9ryeF64AJUNRb-1" source="f9AmiHh9ryeF64AJUNRb-4" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-5" value="">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-8" edge="1" parent="f9AmiHh9ryeF64AJUNRb-1" source="f9AmiHh9ryeF64AJUNRb-4" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" target="f9AmiHh9ryeF64AJUNRb-5" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-9" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=22;" value="慢调体位·简步骤·密观察·尽快结束" vertex="1">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-9" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="慢调体位·简步骤·密观察·尽快结束" vertex="1">
           <mxGeometry height="124" width="892" x="20" y="932" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-10" parent="f9AmiHh9ryeF64AJUNRb-9" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="缓慢调整体位" vertex="1">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-10" parent="f9AmiHh9ryeF64AJUNRb-9" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="缓慢调整体位" vertex="1">
           <mxGeometry height="54" width="156" x="46" y="43" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-11" parent="f9AmiHh9ryeF64AJUNRb-9" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="简化治疗步骤" vertex="1">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-11" parent="f9AmiHh9ryeF64AJUNRb-9" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="简化治疗步骤" vertex="1">
           <mxGeometry height="54" width="156" x="277" y="43" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-12" parent="f9AmiHh9ryeF64AJUNRb-9" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="密切观察" vertex="1">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-12" parent="f9AmiHh9ryeF64AJUNRb-9" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="密切观察" vertex="1">
           <mxGeometry height="54" width="124" x="508" y="43" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-13" parent="f9AmiHh9ryeF64AJUNRb-9" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="尽快结束操作" vertex="1">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-13" parent="f9AmiHh9ryeF64AJUNRb-9" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="尽快结束操作" vertex="1">
           <mxGeometry height="54" width="156" x="707" y="43" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-14" edge="1" parent="f9AmiHh9ryeF64AJUNRb-9" source="f9AmiHh9ryeF64AJUNRb-10" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-11" value="">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-14" edge="1" parent="f9AmiHh9ryeF64AJUNRb-9" source="f9AmiHh9ryeF64AJUNRb-10" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" target="f9AmiHh9ryeF64AJUNRb-11" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-15" edge="1" parent="f9AmiHh9ryeF64AJUNRb-9" source="f9AmiHh9ryeF64AJUNRb-11" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-12" value="">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-15" edge="1" parent="f9AmiHh9ryeF64AJUNRb-9" source="f9AmiHh9ryeF64AJUNRb-11" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" target="f9AmiHh9ryeF64AJUNRb-12" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-16" edge="1" parent="f9AmiHh9ryeF64AJUNRb-9" source="f9AmiHh9ryeF64AJUNRb-12" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-13" value="">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-16" edge="1" parent="f9AmiHh9ryeF64AJUNRb-9" source="f9AmiHh9ryeF64AJUNRb-12" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" target="f9AmiHh9ryeF64AJUNRb-13" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-17" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=22;" value="呼救·体位·气道·抢救" vertex="1">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-17" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="呼救·体位·气道·抢救" vertex="1">
           <mxGeometry height="124" width="956" x="1583" y="720" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-18" parent="f9AmiHh9ryeF64AJUNRb-17" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="呼叫急救团队" vertex="1">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-18" parent="f9AmiHh9ryeF64AJUNRb-17" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="呼叫急救团队" vertex="1">
           <mxGeometry height="54" width="156" x="46" y="43" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-19" parent="f9AmiHh9ryeF64AJUNRb-17" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="左侧卧位头低位" vertex="1">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-19" parent="f9AmiHh9ryeF64AJUNRb-17" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="左侧卧位头低位" vertex="1">
           <mxGeometry height="54" width="172" x="277" y="43" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-20" parent="f9AmiHh9ryeF64AJUNRb-17" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="双人吸引保气道" vertex="1">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-20" parent="f9AmiHh9ryeF64AJUNRb-17" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="双人吸引保气道" vertex="1">
           <mxGeometry height="54" width="172" x="524" y="43" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-21" parent="f9AmiHh9ryeF64AJUNRb-17" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="准备抢救设备" vertex="1">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-21" parent="f9AmiHh9ryeF64AJUNRb-17" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="准备抢救设备" vertex="1">
           <mxGeometry height="54" width="156" x="771" y="43" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-22" edge="1" parent="f9AmiHh9ryeF64AJUNRb-17" source="f9AmiHh9ryeF64AJUNRb-18" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-19" value="">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-22" edge="1" parent="f9AmiHh9ryeF64AJUNRb-17" source="f9AmiHh9ryeF64AJUNRb-18" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" target="f9AmiHh9ryeF64AJUNRb-19" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-23" edge="1" parent="f9AmiHh9ryeF64AJUNRb-17" source="f9AmiHh9ryeF64AJUNRb-19" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-20" value="">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-23" edge="1" parent="f9AmiHh9ryeF64AJUNRb-17" source="f9AmiHh9ryeF64AJUNRb-19" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" target="f9AmiHh9ryeF64AJUNRb-20" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-24" edge="1" parent="f9AmiHh9ryeF64AJUNRb-17" source="f9AmiHh9ryeF64AJUNRb-20" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-21" value="">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-24" edge="1" parent="f9AmiHh9ryeF64AJUNRb-17" source="f9AmiHh9ryeF64AJUNRb-20" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" target="f9AmiHh9ryeF64AJUNRb-21" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-25" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=22;" value="报告·备药·通路·监测" vertex="1">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-25" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="报告·备药·通路·监测" vertex="1">
           <mxGeometry height="172" width="996" x="947" y="485" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-26" parent="f9AmiHh9ryeF64AJUNRb-25" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="报告医生" vertex="1">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-26" parent="f9AmiHh9ryeF64AJUNRb-25" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="报告医生" vertex="1">
           <mxGeometry height="54" width="124" x="46" y="67" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-27" parent="f9AmiHh9ryeF64AJUNRb-25" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="准备止吐药&#xa;甲氧氯普胺10mg/昂丹司琼4mg" vertex="1">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-27" parent="f9AmiHh9ryeF64AJUNRb-25" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="准备止吐药&#xa;甲氧氯普胺10mg/昂丹司琼4mg" vertex="1">
           <mxGeometry height="102" width="260" x="245" y="43" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-28" parent="f9AmiHh9ryeF64AJUNRb-25" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="建立静脉通路" vertex="1">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-28" parent="f9AmiHh9ryeF64AJUNRb-25" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="建立静脉通路" vertex="1">
           <mxGeometry height="54" width="156" x="580" y="67" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-29" parent="f9AmiHh9ryeF64AJUNRb-25" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="监测生命体征" vertex="1">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-29" parent="f9AmiHh9ryeF64AJUNRb-25" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="监测生命体征" vertex="1">
           <mxGeometry height="54" width="156" x="811" y="67" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-30" edge="1" parent="f9AmiHh9ryeF64AJUNRb-25" source="f9AmiHh9ryeF64AJUNRb-26" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-27" value="">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-30" edge="1" parent="f9AmiHh9ryeF64AJUNRb-25" source="f9AmiHh9ryeF64AJUNRb-26" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" target="f9AmiHh9ryeF64AJUNRb-27" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-31" edge="1" parent="f9AmiHh9ryeF64AJUNRb-25" source="f9AmiHh9ryeF64AJUNRb-27" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-28" value="">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-31" edge="1" parent="f9AmiHh9ryeF64AJUNRb-25" source="f9AmiHh9ryeF64AJUNRb-27" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" target="f9AmiHh9ryeF64AJUNRb-28" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-32" edge="1" parent="f9AmiHh9ryeF64AJUNRb-25" source="f9AmiHh9ryeF64AJUNRb-28" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-29" value="">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-32" edge="1" parent="f9AmiHh9ryeF64AJUNRb-25" source="f9AmiHh9ryeF64AJUNRb-28" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" target="f9AmiHh9ryeF64AJUNRb-29" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-33" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=22;" value="安抚·呼吸·漱口·观察15min" vertex="1">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-33" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="安抚·呼吸·漱口·观察15min" vertex="1">
           <mxGeometry height="124" width="845" x="43" y="509" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-34" parent="f9AmiHh9ryeF64AJUNRb-33" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="安抚患者" vertex="1">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-34" parent="f9AmiHh9ryeF64AJUNRb-33" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="安抚患者" vertex="1">
           <mxGeometry height="54" width="124" x="46" y="43" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-35" parent="f9AmiHh9ryeF64AJUNRb-33" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="指导深呼吸" vertex="1">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-35" parent="f9AmiHh9ryeF64AJUNRb-33" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="指导深呼吸" vertex="1">
           <mxGeometry height="54" width="140" x="245" y="43" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-36" parent="f9AmiHh9ryeF64AJUNRb-33" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="温盐水漱口" vertex="1">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-36" parent="f9AmiHh9ryeF64AJUNRb-33" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="温盐水漱口" vertex="1">
           <mxGeometry height="54" width="140" x="460" y="43" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-37" parent="f9AmiHh9ryeF64AJUNRb-33" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="观察15分钟" vertex="1">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-37" parent="f9AmiHh9ryeF64AJUNRb-33" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="观察15分钟" vertex="1">
           <mxGeometry height="54" width="141" x="675" y="43" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-38" edge="1" parent="f9AmiHh9ryeF64AJUNRb-33" source="f9AmiHh9ryeF64AJUNRb-34" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-35" value="">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-38" edge="1" parent="f9AmiHh9ryeF64AJUNRb-33" source="f9AmiHh9ryeF64AJUNRb-34" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" target="f9AmiHh9ryeF64AJUNRb-35" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-39" edge="1" parent="f9AmiHh9ryeF64AJUNRb-33" source="f9AmiHh9ryeF64AJUNRb-35" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-36" value="">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-39" edge="1" parent="f9AmiHh9ryeF64AJUNRb-33" source="f9AmiHh9ryeF64AJUNRb-35" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" target="f9AmiHh9ryeF64AJUNRb-36" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-40" edge="1" parent="f9AmiHh9ryeF64AJUNRb-33" source="f9AmiHh9ryeF64AJUNRb-36" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-37" value="">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-40" edge="1" parent="f9AmiHh9ryeF64AJUNRb-33" source="f9AmiHh9ryeF64AJUNRb-36" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=22;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" target="f9AmiHh9ryeF64AJUNRb-37" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-41" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="“患者恶心/呕吐”" vertex="1">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-41" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="“患者恶心/呕吐”" vertex="1">
           <mxGeometry height="54" width="181" x="1355" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-42" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="“立即：停操作·调体位·清口腔”" vertex="1">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-42" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="“立即：停操作·调体位·清口腔”" vertex="1">
           <mxGeometry height="78" width="260" x="1315" y="124" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-43" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=22;" value="“分级评估”" vertex="1">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-43" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="“分级评估”" vertex="1">
           <mxGeometry height="135" width="135" x="1378" y="252" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-44" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=22;" value="“症状缓解？”" vertex="1">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-44" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="“症状缓解？”" vertex="1">
           <mxGeometry height="151" width="151" x="875" y="707" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-45" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="“误吸处理→转急诊”" vertex="1">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-45" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="“误吸处理→转急诊”" vertex="1">
           <mxGeometry height="54" width="205" x="1959" y="967" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-46" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="“延长观察·指导·记录”" vertex="1">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-46" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="“延长观察·指导·记录”" vertex="1">
           <mxGeometry height="54" width="217" x="842" y="1106" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-47" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="“急诊处理”" vertex="1">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-47" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="“急诊处理”" vertex="1">
           <mxGeometry height="54" width="141" x="1991" y="1106" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-48" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="“流程结束”" vertex="1">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-48" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="“流程结束”" vertex="1">
           <mxGeometry height="54" width="141" x="1193" y="1210" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-49" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-41" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-42" value="">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-49" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-41" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=22;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" target="f9AmiHh9ryeF64AJUNRb-42" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-50" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-42" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-43" value="">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-50" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-42" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=22;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" target="f9AmiHh9ryeF64AJUNRb-43" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-51" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-45" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-47" value="">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-51" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-45" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" target="f9AmiHh9ryeF64AJUNRb-47" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-52" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-46" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.28;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-48" value="">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-52" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-46" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.28;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=22;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" target="f9AmiHh9ryeF64AJUNRb-48" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-53" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-47" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.41;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-48" value="">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-53" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-47" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.41;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=22;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" target="f9AmiHh9ryeF64AJUNRb-48" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-54" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-43" style="startArrow=none;endArrow=block;exitX=0;exitY=0.56;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-33" value="“轻度：仅恶心&#xa;呕吐≤1次”">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-54" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-43" style="startArrow=none;endArrow=block;exitX=0;exitY=0.56;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=22;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" target="f9AmiHh9ryeF64AJUNRb-33" value="“轻度：仅恶心&#xa;呕吐≤1次”">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-55" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-43" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-25" value="“中度：呕吐2-3次&#xa;不能继续治疗”">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-55" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-43" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=22;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" target="f9AmiHh9ryeF64AJUNRb-25" value="“中度：呕吐2-3次&#xa;不能继续治疗”">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-56" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-43" style="startArrow=none;endArrow=block;exitX=1;exitY=0.59;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-17" value="“重度：喷射性呕吐&#xa;呼吸困难/意识改变”">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-56" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-43" style="startArrow=none;endArrow=block;exitX=1;exitY=0.59;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=22;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" target="f9AmiHh9ryeF64AJUNRb-17" value="“重度：喷射性呕吐&#xa;呼吸困难/意识改变”">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-57" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-33" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-44" value="">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-57" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-33" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;fontSize=22;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" target="f9AmiHh9ryeF64AJUNRb-44" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-58" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-25" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-44" value="">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-58" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-25" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;fontSize=22;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" target="f9AmiHh9ryeF64AJUNRb-44" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-59" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-17" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-45" value="">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-59" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-17" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" target="f9AmiHh9ryeF64AJUNRb-45" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-60" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-44" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-9" value="“是”">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-60" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-44" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;fontSize=22;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" target="f9AmiHh9ryeF64AJUNRb-9" value="“是”">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="950" y="895" />
@@ -1509,13 +1509,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-61" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-44" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-1" value="“否”">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-61" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-44" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;fontSize=22;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" target="f9AmiHh9ryeF64AJUNRb-1" value="“否”">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-62" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-9" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.28;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-46" value="">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-62" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-9" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.28;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=22;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" target="f9AmiHh9ryeF64AJUNRb-46" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f9AmiHh9ryeF64AJUNRb-63" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-1" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.28;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=22;" target="f9AmiHh9ryeF64AJUNRb-46" value="">
+        <mxCell id="f9AmiHh9ryeF64AJUNRb-63" edge="1" parent="1" source="f9AmiHh9ryeF64AJUNRb-1" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.28;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=22;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" target="f9AmiHh9ryeF64AJUNRb-46" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
